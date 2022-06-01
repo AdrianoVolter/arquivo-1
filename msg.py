@@ -11,7 +11,7 @@ myButton = Button(app, text='Clique aqui!\nInstalar arquivo', command=myClick ,p
 myButton.pack()
 app.title('ARQUIVO-1',)
 
-#Caixa de mensagem na tela.
+
 #app.geometry('500x300')
 #messagebox.showinfo(title='ARQUIVO-1', message=
 #'CONTAINER UP!')
