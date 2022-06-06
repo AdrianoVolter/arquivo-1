@@ -8,6 +8,7 @@ def myClick():
       sleep(5)
       app.destroy()
       
+      
 myButton1 = Button(app, text='INSTALAR PROGRAMA\nClique aqui', command=myClick ,padx=40,pady=40,fg='white', bg='red')
 myButton1.pack()
 
